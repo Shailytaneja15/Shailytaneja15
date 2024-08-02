@@ -5,24 +5,72 @@ Data Analyst | Python Enthusiast | Lifelong Learner
 ---------------------------------------------------
 
 
-👋 Hi there! I’m Shaily, an aspiring data analyst with a passion for unravelling insights from complex datasets. My journey involves turning raw data into actionable knowledge, and I’m excited to share my projects and experiences. 
+👋 Hi there! I’m Shaily, an aspiring data analyst with a passion for unravelling insights from complex datasets. My journey involves turning raw data into actionable knowledge, and I’m excited to share my projects and experiences. This GitHub repository showcases my projects across various tools and technologies. Feel free to explore my projects and reach out if you have any questions or collaboration ideas! --please add more info with your personal infromation --
 
-**About Me** 🎓 
+## About Me 🎓 
 
-I hold a degree in with a focus on data analytics. 
+
+-- please update this part with your pitch --
+I hold a degree in Computer Science with a focus on data analytics. 
+
 📊 Proficient in Python, SQL, and data visualization tools (Matplotlib, Seaborn). 
 🧩 Skilled in data cleaning, exploratory data analysis (EDA), and statistical modelling. 
 🌐 Curious about web scraping and API integration. 
 
-**Projects** 
+## Projects
 
 1. **Customer Segmentation** using K-Means Clustering Employed K-Means clustering to identify distinct customer segments based on their purchasing behavior. Cleaned and preprocessed e-commerce transaction data. Visualized segment characteristics using scatter plots and bar charts.
    
-3. **Predictive Modeling** for Loan Approval Developed a logistic regression model to predict loan approval probabilities. Engineered features and handled missing data. Achieved an accuracy of 82% on the test set.
-4. **Exploratory Data Analysis:** Airbnb Listings in London Explored Airbnb listings data for various London neighborhoods. Created interactive visualizations using Plotly. Uncovered pricing trends and popular neighborhoods. 
+2. **Predictive Modeling** for Loan Approval Developed a logistic regression model to predict loan approval probabilities. Engineered features and handled missing data. Achieved an accuracy of 82% on the test set.
+3. **Exploratory Data Analysis:** Airbnb Listings in London Explored Airbnb listings data for various London neighborhoods. Created interactive visualizations using Plotly. Uncovered pricing trends and popular neighborhoods. 
+
+
+### R
+- **Project Name**: [Project Title](link-to-project)
+  - **Description**: Brief description of what the project does and its key features.
+  - **Technologies Used**: List the libraries/packages used in the project.
+
+### PowerBI
+- **Project Name**: [Project Title](link-to-project)
+  - **Description**: Brief description of what the project does and its key features.
+  - **Technologies Used**: List the features and data sources used in the project.
+
+### Tableau
+- **Project Name**: [Project Title](link-to-project)
+  - **Description**: Brief description of what the project does and its key features.
+  - **Technologies Used**: List the features and data sources used in the project.
+
+### Access
+- **Project Name**: [Project Title](link-to-project)
+  - **Description**: Brief description of what the project does and its key features.
+  - **Technologies Used**: List the features and tables used in the project.
+
+### MySQL
+- **Project Name**: [Project Title](link-to-project)
+  - **Description**: Brief description of what the project does and its key features.
+  - **Technologies Used**: List the features and databases used in the project.
+
+### Python and Pandas
+- **Project Name**: [Project Title](link-to-project)
+  - **Description**: Brief description of what the project does and its key features.
+  - **Technologies Used**: List the libraries/packages used in the project.
+
+### DP900
+- **Project Name**: [Project Title](link-to-project)
+  - **Description**: Brief description of what the project does and its key features.
+  - **Technologies Used**: List the tools and concepts used in the project.
+
+### Excel Modelling
+- **Project Name**: [Project Title](link-to-project)
+  - **Description**: Brief description of what the project does and its key features.
+  - **Technologies Used**: List the functions and techniques used in the project.
+
+
+
+
 
 * 🌍  I'm based in London
-* ✉️  You can contact me at [training.justit@gmail.com](mailto:training.justit@gmail.com)
+* ✉️  You can contact me at [email address](mailto:shailytaneja15@gmail.com)
 * 🧠  I'm learning R, Pandas
 * 🤝  I'm open to collaborating on Health Economics, Healthcare projects
 
@@ -44,12 +92,12 @@ I hold a degree in with a focus on data analytics.
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Ali06112023"><img src="https://github-readme-stats.vercel.app/api?username=Ali06112023&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ali06112023's GitHub stats" /></a>
+<a href="http://www.github.com/Ali06112023"><img src="https://github-readme-stats.vercel.app/api?username=shailytaneja15&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ali06112023's GitHub stats" /></a>
 
-<a href="http://www.github.com/Ali06112023"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali06112023&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Ali06112023"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shailytaneja15&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Ali06112023" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali06112023&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Ali06112023" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shailytaneja15&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="http://www.github.com/Ali06112023"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ali06112023&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Ali06112023"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=shailytaneja15&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
